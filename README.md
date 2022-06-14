@@ -1,4 +1,5 @@
 👋 Hi There
 I’m Arda Mustafa
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hankpinkman)](https://github.com/hankpinkman/github-readme-stats)
+
+[README.md](https://github.com/hankpinkman/hankpinkman/files/8903147/README.md)
